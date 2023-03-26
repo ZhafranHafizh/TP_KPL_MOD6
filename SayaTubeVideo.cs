@@ -49,9 +49,9 @@ namespace tpmodul6_1302210036
         }
         public void PrintVideoDetails()
         {
-            Console.WriteLine("ID: " + id);
-            Console.WriteLine("Title: " + title);
-            Console.WriteLine("Play Count: " +  playCount);
+            Console.WriteLine("ID \t\t: " + id);
+            Console.WriteLine("Title \t\t: " + title);
+            Console.WriteLine("Play Count \t: " +  playCount);
         }
 
     }
